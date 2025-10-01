@@ -22,8 +22,9 @@ h6,
 p {
   margin: 0;
 }
-.imeges {
+.images {
   display: block;
+  margin: 0 auto;
 }
 /* header */
 .page-header {
